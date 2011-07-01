@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="simpleweb">
+    <CLASSES>
+      <root url="file://$USER_HOME$/simple-4.1.21/jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/simple-4.1.21/jar" recursive="false" />
+  </library>
+</component>
